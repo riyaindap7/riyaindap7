@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya Indap</h1>
+<h1 align="center">Hi , I'm Riya Indap</h1>
 <h3 align="center">A passionate IT Engineering student | Developer | Tech Explorer</h3>
 <p align="justify">
 <small>
@@ -13,7 +13,7 @@ I'm currently pursuing my B.E. in Information Technology. I'm working on excitin
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riyaindap7&show_icons=true&theme=github_dark" alt="Riya's GitHub stats" />
   <br/>
