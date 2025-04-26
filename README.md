@@ -6,16 +6,11 @@ I'm currently pursuing my B.E. in Information Technology. I'm working on excitin
 </small></p>
 
 
-##  Tech Stack
+##  Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,nodejs,express,sqlite,mongodb,flutter,typescript,flask,nextjs,php,django" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,nodejs,express,sqlite,mongodb,flutter,typescript,flask,nextjs,php,django,firebase,aws,kubernetes,git,github,figma,postman,vscode,netlify,docker" />
 </p>
 
-
-##  Tools I Use
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,aws,kubernetes,git,github,figma,postman,vscode,netlify,docker" />
-</p>
 
 
 ## 📊 GitHub Stats
