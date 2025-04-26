@@ -22,4 +22,4 @@ I'm currently pursuing my B.E. in Information Technology. I'm working on excitin
 
 ---
 
-🌟 *"Code, Document, and Inspire."* 🚀
+🌟 *"Code, Document, and Inspire."* ❤️
