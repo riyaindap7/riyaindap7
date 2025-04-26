@@ -5,7 +5,6 @@
 I'm currently pursuing my B.E. in Information Technology. I'm working on exciting projects related to Web Development, AI, and MongoDB. I'm in the process of learning Next.js, MongoDB, and the Fundamentals of Machine Learning to further sharpen my skills. Feel free to ask me about Frontend Development, Backend Basics, Project Management, or Documentation — I love discussing these topics! ⚡ Fun fact: I believe that building and documenting projects is both an art and a skill!
 </small></p>
 
----
 
 ## 🚀 Tech Stack
 <p align="left">
@@ -18,7 +17,6 @@ I'm currently pursuing my B.E. in Information Technology. I'm working on excitin
   <img src="https://skillicons.dev/icons?i=firebase,aws,kubernetes,git,github,figma,postman,vscode,netlify,docker" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
