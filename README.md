@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riyaindap7/riyaindap7/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/riyaindap7/profile-assets/main/flying-riya.svg"/>
+
 
 
 <p align="center">
