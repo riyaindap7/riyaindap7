@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riyaindap7/profile-assets/main/flying-riya.svg"/>
-
+  <img src="assets/ai-banner.svg" alt="Riya Indap — AI Researcher banner" />
+</p>
 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F700FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Riya+Indap+👋;AI+Engineer+%7C+Full-Stack+Dev+%7C+Researcher;Building+LawSight+%F0%9F%94%97;Exploring+AI+%26+Systems+Design+Daily" />
-</p></p>
+</p>
 
 ---
 
