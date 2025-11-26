@@ -1,10 +1,4 @@
 <!-- HEADER -->
-<p align="center">
-  <a href="https://my.spline.design/travellinginfinitecopycopycopycopy-825b5dec4e3080b4bea5ff4974857513/" target="_blank">
-    <img src="assets/spline-static-banner.png" width="100%" />
-  </a>
-</p>
-<iframe src='' frameborder='0' width='100%' height='100%'></iframe>
 
 <h1 align="center">Hi, I'm <span style="color:#6C63FF;">Riya Indap</span> 👋</h1>
 <h3 align="center">A Passionate IT Engineering Student | Developer | Tech Explorer</h3>
@@ -42,23 +36,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=riyaindap7&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaindap7&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="![snake gif](https://github.com/riyaindap7/riyaindap7/blob/output/github-contribution-grid-snake.svg)" />
-  
-
-</p>
-
----
-
-## ⭐ Featured Projects
-> (Replace repo links with your own)
-
-| Project | Description |
-|--------|-------------|
-| 🚀 [Project Name](https://github.com/) | A brief, catchy description. |
-| 🎯 [Project Name](https://github.com/) | Something unique about this project. |
-| 🧠 [Project Name](https://github.com/) | Why this project stands out. |
 
 ---
 
